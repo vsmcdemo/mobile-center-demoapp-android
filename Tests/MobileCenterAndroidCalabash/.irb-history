@@ -1,0 +1,47 @@
+my_first
+start_test_server_in_background
+query("button")
+query("R.id.login_facebook_button")
+query("login_facebook_button")
+query("android.widget.Button")
+query("id:login_facebook_button")
+query("id:'login_facebook_button'")
+query("* id:'login_facebook_button'")
+query("button")
+query("Button")
+end
+quit
+quit
+tap_when_element_exists("* id:'login_facebook_button'")
+start_test_server_in_background
+tap_when_element_exists("* id:'login_facebook_button'")
+query("*)
+query("*")
+"
+"
+)
+))
+fasdf
+;
+end
+quit
+quit
+start_test_server_in_background
+tap_when_element_exists("* id:'login_facebook_button'")
+query("*")
+query("webView css:'a'")
+query("webView *")
+query("SystemWebView css:'a'")
+query("SystemWebView")
+query("WebView")
+query("com.facebook.internal.WebDialog")
+query("com.facebook.internal.WebDialog3")
+query("com.facebook.internal.WebDialog$3")
+query("com.facebook.internal.WebDialog$3 *")
+query("com.facebook.internal.WebDialog$3 css:'*'")
+query("com.facebook.internal.WebDialog$3 css:'input.email'")
+query("com.facebook.internal.WebDialog$3 css:'input'")
+query("com.facebook.internal.WebDialog$3 css:'input[name=\"email\"]'")
+query("com.facebook.internal.WebDialog$3 css:'input[name=\"pass\"]'")
+query("com.facebook.internal.WebDialog$3 css:'button[name=\"login\"]'")
+quit

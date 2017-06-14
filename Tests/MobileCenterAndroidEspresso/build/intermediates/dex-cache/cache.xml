@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\2ecb9931700f0edf5466662fccf6a09e8001842e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_8767ce31c1f0e04e36a02efb9ea94a7392c90cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\7c9bd42cb56851d4eeaceafce8faeaa601d1e118\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7308fa2037dac339ea04b90cdd17e87f835ea294">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_283d6e08ebda3786b08aed9d3860ae8bbc5943df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\bf56f40893b387505ae254ba47ea2cb99fe7f2a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4780bf6c1f201a9b6aa43031b5baab2c499323b">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_f77746aaf092fd35d1ad3fec012bcad09694e102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\b039d33e9d143d05ecae437487907480bb533e48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_e4e88a46a7fb79791ca5ebbc932cce4bc48d0d98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\bfc5bbc3291577e4f4c8178c0ca436e10ae562be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_a9b5f4ed1b301f74d6cba6bdb9e6efcfe92aefcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\63a41abc0cc4c96943b3ff752e534ae8b0be93c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_cc18365399d224aba4f42ea455a20490a2561f6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\twitter-text-1.13.0_f3f8b5aeb302d59572795b8eae102aa1287bb699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\654cbb08f1f197b17ea0c22de06367669e93ff28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_854f6cda58552a81b9573e038a3d64bcc93a4e18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_a465921543a3767edc737ba314f5f3f68b267209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_58369c37feeae2fe7f9cc772b0e460b3d54a8c8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\825b67277023e76c0712f27a6cb6da4acd4d542b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4504ae3ec47953f3d0c324dc66996aecfb7fbb5c">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_0f00dfb856a62d98a960402ea898952ba1136a31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\dd6168fa7e2228037dbb32a53f162104fb969de2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_3f8a6d66bee0ab581ffb6bc136c7c4c00eb18e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\013d7e9bf26a05a0a10b739e48ec25dc02138c9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="343ad59d9fb3bbf6ab99baafad859eb4b0fecc02">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_6c4efc7d723479e8e5620348218cf3c97efc05ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\e01f009c3b8bc140358500326424227764b9c4e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_8a00f435cc864e4ca6751b680e25591a191ddef1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\7792a652b506f844ac68e5692afbb0596309ba0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_e0158326e389f725860790bafbb83cc05c79b6e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\abfbfd71468634b1daca7cf5ac7cb8f69f4c181d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="895c63ba9782b04f0c5da69205216f6ec87119eb">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_78ba8c20ba7b51e792d46a7622af291bda7d5076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_f603f541d9cf7f2aa2ef71cb83877978712651b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\e35044e275b5c0cf17f9f6512c8b0b0c91902a74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_aa8e1eef6748646c96b881d75cbf32d9346fbc79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\4fd62f7b70f77d5a8442c87615a8df165523ad8b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_66bc22c0f939a4a0a5c65498465c3dc23a934f5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c7a7da68a41ead2b02f3a0a105c6216dff645546.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_0dccc7471eab4e5d9b30010c6bfb27c2f64c6679.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2_f70137c04823acdb103cf90e5ef24f21a63f309b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_e73f812716f6296f0dd279fbcf6561453c30ad68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.2\5d4eb08a326bdbd7fbbddc769666898c9936b282\MPAndroidChart-v3.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v3.0.2_66da4bff09ead38e289ccc78dea7e68780c5df4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\3d75e0297559ca8afb430c1d33129a269a151fb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d314781856696defa9f80959995f273d9ee120cf">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_d919919f55a85917b4bffdd5e1d6d1a27ad6fbb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\214d4f564204d428671799130cbf86fb94dce8f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9c323d2f77a81e3e1a2d021544a5ce8e50dbf9ea">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_4f99ce8c6a130d82b335c5fbc12869e450d94555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\14157c849a4341a58d320e2bd4ed445ba7de4dc7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_5ef6b29dc41974980b19873d030def62c6a817c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\6d7dfc87a721d9ad26cf90d9f01515fe8a993204\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_ec90847679ebbcaf29f0e327c50d2678394de16c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.android\build-cache\5113f8cc89b4652dee950aed84863d10e77a16d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a10ed1f1cff990ef081263ad33f13dc6c207eb4e">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\classes_5b90b5146962e20bda49ff01538fe40edd568795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akvelon\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Projects\MobileCenterAndroidDemo\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_d14a166efb65075f0d8bbae10c16803e9db5fa0d.jar" />
+    </item>
+
+</items>

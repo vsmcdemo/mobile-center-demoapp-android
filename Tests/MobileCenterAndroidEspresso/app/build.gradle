@@ -1,0 +1,84 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.3"
+    defaultConfig {
+        applicationId "com.akvelon.mobilecenterandroiddemo"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig getSigningConfig()
+            applicationVariants.all { variant ->
+                variant.outputs.each { output ->
+                    def project = "MobileCenterAndroidNative";
+                    def date = new Date();
+                    def formattedDate = date.format('dd-MM-yy--HH-mm');
+                    def s = "_";
+                    def apkName = project + s + formattedDate + ".apk";
+                    output.outputFile = new File(output.outputFile.parent, apkName)
+                            //for Debug use output.outputFile = new File(output.outputFile.parent,
+                            //                             output.outputFile.name.replace("-debug", "-" + formattedDate)
+                }
+            }
+        }
+    }
+
+    configurations.all {
+        resolutionStrategy.force 'com.google.code.gson:gson:2.7'
+    }
+}
+
+repositories {
+    mavenCentral()
+    maven { url 'https://maven.fabric.io/public' }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+
+    androidTestCompile('com.xamarin.testcloud:espresso-support:1.1')
+
+    def mobileCenterSdkVersion = '0.7.0'
+    compile "com.microsoft.azure.mobile:mobile-center-analytics:${mobileCenterSdkVersion}"
+    compile "com.microsoft.azure.mobile:mobile-center-crashes:${mobileCenterSdkVersion}"
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.facebook.android:facebook-android-sdk:[4,5)'
+    compile 'com.google.android.gms:play-services-fitness:9.8.0'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.android.support:support-vector-drawable:25.3.1'
+    compile 'com.android.support:support-v4:25.3.1'
+    compile 'com.github.PhilJay:MPAndroidChart:v3.0.2'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile('com.twitter.sdk.android:twitter:2.3.0@aar') {
+        transitive = true;
+    }
+    compile('com.twitter.sdk.android:twitter-core:2.3.0@aar') {
+        transitive = true;
+    }
+    testCompile 'junit:junit:4.12'
+}
+
+
